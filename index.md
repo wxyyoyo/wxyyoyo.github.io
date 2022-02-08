@@ -1,4 +1,4 @@
-Here you can say lots of fun things about your site.
+Hello World!
 
 Maybe say a some things about yourself.
 
