@@ -35,6 +35,6 @@ ForEach ($thing in $things) {
 import numpy as np
 
 def fun() {
-    Hello World!
+    Hello World!;
 }
 '''
