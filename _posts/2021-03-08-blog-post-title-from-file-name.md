@@ -31,10 +31,10 @@ ForEach ($thing in $things) {
 }
 ```
 #### try some python code
-''' python
+''''
 import numpy as np
 
 def fun() {
     Hello World!;
 }
-'''
+''''
