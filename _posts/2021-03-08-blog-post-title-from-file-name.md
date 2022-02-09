@@ -34,8 +34,7 @@ ForEach ($thing in $things) {
 ''' python
 import numpy as np
 
-def fun()
-{
+def fun() {
     Hello World!
 }
 '''
